@@ -1,0 +1,36 @@
+{
+  "selected_run": "augmented",
+  "selection_metric": "validation mAP50-95",
+  "test": {
+    "metrics/precision(B)": 0.8895954150505236,
+    "metrics/recall(B)": 0.8468085106382979,
+    "metrics/mAP50(B)": 0.8590396685343968,
+    "metrics/mAP50-95(B)": 0.5634011805058972,
+    "fitness": 0.5634011805058972
+  },
+  "speed_ms": {
+    "preprocess": 0.15766666368094842,
+    "inference": 0.8885497516901487,
+    "loss": 0.00035323188709678933,
+    "postprocess": 0.6667328372931303
+  },
+  "model_sha256": "901158e866867e9c97f9ad29eb3171d9fd6f54fdb752810d799432f0de7a715a",
+  "names": {
+    "0": "drone"
+  },
+  "prediction_threshold": 0.25,
+  "sample_detection_counts": [
+    1,
+    0,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1
+  ]
+}

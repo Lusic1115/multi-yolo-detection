@@ -1,0 +1,99 @@
+{
+  "images": {
+    "train": 937,
+    "val": 201,
+    "test": 201
+  },
+  "boxes": {
+    "train": 1016,
+    "val": 214,
+    "test": 235
+  },
+  "groups": 252,
+  "largest_group": 356,
+  "exact_duplicates_removed": [
+    {
+      "removed": "drone_dataset\\valid\\images\\0013.jpg",
+      "kept": "drone_dataset/train/images/pic_691.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0015.jpg",
+      "kept": "drone_dataset/train/images/pic_535.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0024.jpg",
+      "kept": "drone_dataset/train/images/pic_069.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0033.jpg",
+      "kept": "drone_dataset/valid/images/0032.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0039.jpg",
+      "kept": "drone_dataset/valid/images/0028.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0058.jpg",
+      "kept": "drone_dataset/valid/images/0050.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0063.jpg",
+      "kept": "drone_dataset/valid/images/0029.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0069.jpg",
+      "kept": "drone_dataset/train/images/pic_419.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0074.jpg",
+      "kept": "drone_dataset/train/images/pic_579.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0096.jpg",
+      "kept": "drone_dataset/train/images/pic_037.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0097.jpg",
+      "kept": "drone_dataset/train/images/pic_443.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0224.jpg",
+      "kept": "drone_dataset/train/images/pic_424.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0230.jpg",
+      "kept": "drone_dataset/train/images/pic_304.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0239.jpg",
+      "kept": "drone_dataset/train/images/pic_450.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0281.jpg",
+      "kept": "drone_dataset/train/images/pic_167.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0283.jpg",
+      "kept": "drone_dataset/train/images/pic_193.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0297.jpg",
+      "kept": "drone_dataset/train/images/pic_372.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0306.jpg",
+      "kept": "drone_dataset/train/images/pic_066.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\0319.jpg",
+      "kept": "drone_dataset/train/images/pic_232.jpg"
+    },
+    {
+      "removed": "drone_dataset\\valid\\images\\pic_010.jpg",
+      "kept": "drone_dataset/valid/images/0086.jpg"
+    }
+  ],
+  "near_duplicate_pairs_grouped": 174,
+  "seed": 20261013,
+  "grouping": "same filename prefix and numeric ID // 20; transitive dHash Hamming distance <=4"
+}

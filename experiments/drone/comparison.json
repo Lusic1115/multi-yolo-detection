@@ -1,0 +1,26 @@
+[
+  {
+    "run": "baseline",
+    "weights": "runs\\baseline\\weights\\best.pt",
+    "training_seconds": 738.197663300205,
+    "validation": {
+      "metrics/precision(B)": 0.9175697638173355,
+      "metrics/recall(B)": 0.7897196261682243,
+      "metrics/mAP50(B)": 0.8918810872872914,
+      "metrics/mAP50-95(B)": 0.5400217079422488,
+      "fitness": 0.5400217079422488
+    }
+  },
+  {
+    "run": "augmented",
+    "weights": "runs\\augmented\\weights\\best.pt",
+    "training_seconds": 1438.2062357999384,
+    "validation": {
+      "metrics/precision(B)": 0.9325569591625897,
+      "metrics/recall(B)": 0.9045969404888067,
+      "metrics/mAP50(B)": 0.9460168001024626,
+      "metrics/mAP50-95(B)": 0.5984968016832675,
+      "fitness": 0.5984968016832675
+    }
+  }
+]

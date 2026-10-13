@@ -1,0 +1,29 @@
+{
+  "repository_commit": "24c2ffc88396ab6032b2c0b854e54e6d838f7253",
+  "ultralytics": "8.0.196",
+  "torch": "2.5.1+cu124",
+  "scenario_list": "pass",
+  "model_load": "pass",
+  "frame_inference": "pass",
+  "names": {
+    "0": "drone"
+  },
+  "response": {
+    "confidence_threshold": 0.25,
+    "detections": [
+      {
+        "bbox": [
+          743.188720703125,
+          37.59554672241211,
+          1595.797119140625,
+          688.8653564453125
+        ],
+        "class": "drone",
+        "confidence": 0.666726291179657
+      }
+    ],
+    "model_path": "models/drone_yolov8n_v1.pt",
+    "success": true
+  },
+  "scope": "Flask test client; real CPU inference; no MySQL or browser/camera hardware validation"
+}

@@ -1,0 +1,14 @@
+{
+  "dataset": "YOLO Drone Detection Dataset",
+  "publisher": "MUKILAN S (muki2003)",
+  "credited_contributor": "https://www.kaggle.com/dasmehdixtr",
+  "url": "https://www.kaggle.com/datasets/muki2003/yolo-drone-detection-dataset",
+  "version": 1,
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/muki2003/yolo-drone-detection-dataset?datasetVersionNumber=1",
+  "archive_bytes": 376941316,
+  "original_train_images": 1012,
+  "original_validation_images": 347,
+  "license_as_reported_by_source": "Other (specified in description)",
+  "license_note": "Description credits the original contributor but does not give a clear redistribution license. Original image library is not included in the delivery ZIP.",
+  "access_date": "2026-10-13"
+}

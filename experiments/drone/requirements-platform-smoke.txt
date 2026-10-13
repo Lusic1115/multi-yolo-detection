@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+ultralytics==8.0.196
+numpy==1.26.4
+opencv-python==4.10.0.84
+pandas==2.2.3
+seaborn==0.13.2
+setuptools==70.3.0
+py-cpuinfo==9.0.0
+tqdm==4.67.1
+thop==0.1.1.post2209072238
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.0.5
+SQLAlchemy==2.1.4
+PyMySQL==1.1.0
+Werkzeug==2.3.7

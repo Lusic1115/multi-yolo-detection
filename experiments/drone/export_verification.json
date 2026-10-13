@@ -1,0 +1,7 @@
+{
+  "source_sha256": "2f4e73b2a6cdb0a8af333d4238aaf5f94c473bff278fbf4d74e40835512acb33",
+  "export_sha256": "901158e866867e9c97f9ad29eb3171d9fd6f54fdb752810d799432f0de7a715a",
+  "comparison_images": 8,
+  "max_absolute_box_difference": 0.0,
+  "operation": "remove training-only criterion and optimizer; preserve model parameters"
+}
